@@ -1,13 +1,13 @@
 <h1 align="center">
-  <img align="top" width="44" src="https://raw.githubusercontent.com/udit-001/cursor-linux-release/refs/heads/main/assets/logo44.png">
+  <img align="top" width="44" src="https://raw.githubusercontent.com/xaenerys0/cursor-linux-release/refs/heads/main/assets/logo44.png">
   <span>Cursor AppImage Updater</span>
 </h1>
 
 
 <p align="center">
-  <a href="https://github.com/udit-001/cursor-linux-release/releases/latest" target="_blank"><img alt="release" src="https://img.shields.io/github/v/release/udit-001/cursor-linux-release?label=release&labelColor=%231e1e2e&color=%234fa048"></a>
+  <a href="https://github.com/xaenerys0/cursor-linux-release/releases/latest" target="_blank"><img alt="release" src="https://img.shields.io/github/v/release/xaenerys0/cursor-linux-release?label=release&labelColor=%231e1e2e&color=%234fa048"></a>
   <span> </span>
-  <a href="https://github.com/udit-001/cursor-linux-release/actions/workflows/release.yml" target="_blank"><img alt="downloads" src="https://img.shields.io/github/actions/workflow/status/udit-001/cursor-linux-release/release.yml?branch=main&labelColor=%231e1e2e&color=%234fa048"></a>
+  <a href="https://github.com/xaenerys0/cursor-linux-release/actions/workflows/release.yml" target="_blank"><img alt="downloads" src="https://img.shields.io/github/actions/workflow/status/xaenerys0/cursor-linux-release/release.yml?branch=main&labelColor=%231e1e2e&color=%234fa048"></a>
   <span> </span>
 </p>
 
@@ -35,12 +35,12 @@ To automate updates for your Cursor AppImage on Linux, use [Gear Lever](https://
 
 - **x86_64**
   ```
-  https://github.com/udit-001/cursor-linux-release/releases/download/*/Cursor-*-x86_64.AppImage
+  https://github.com/xaenerys0/cursor-linux-release/releases/download/*/Cursor-*-x86_64.AppImage
   ```
 
 - **ARM64**
   ```
-  https://github.com/udit-001/cursor-linux-release/releases/download/*/Cursor-*-aarch64.AppImage
+  https://github.com/xaenerys0/cursor-linux-release/releases/download/*/Cursor-*-aarch64.AppImage
   ```
 
 
